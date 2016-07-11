@@ -1,8 +1,6 @@
 # Bash
 
 ```
-
-
 #!/bin/bash
 # 脚本的第一行叫 shebang，用来告知系统如何执行该脚本:
 # 参见： http://en.wikipedia.org/wiki/Shebang_(Unix)
@@ -253,6 +251,4 @@ info bash
 info bash 'Bash Features'
 info bash 6
 info --apropos bash
-
-
 ```

@@ -1,8 +1,6 @@
 # Go
 
 ```
-
-
 // 单行注释
 /* 多行
     注释 */
@@ -261,5 +259,4 @@ func (p pair) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     // 使用http.ResponseWriter返回数据
     w.Write([]byte("You learned Go in Y minutes!"))
 }
-
 ```

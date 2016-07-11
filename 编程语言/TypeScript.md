@@ -1,8 +1,6 @@
 # TypeScript
 
 ```
-
-
 // TypeScript有三种基本类型
 var isDone: boolean = false;
 var lines: number = 42;
@@ -149,5 +147,4 @@ var greeting = `Hi ${name}, how are you?`
 // 有多行内容的模板字符串
 var multiline = `This is an example
 of a multiline string`;
-
 ```

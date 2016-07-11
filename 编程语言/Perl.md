@@ -1,8 +1,6 @@
 # Perl
 
 ```
-
-
 # 单行注释以#号开头
 
 
@@ -122,8 +120,4 @@ sub logger {
 # 现在可以像内置函数一样调用子程序：
 
 logger("We have a logger subroutine!");
-
-
-
-
 ```

@@ -1,7 +1,6 @@
 # JavaScript
 
 ```
-
 // 注释方式和C很像，这是单行注释
 /* 这是多行
    注释 */
@@ -447,5 +446,4 @@ if (Object.create === undefined){ // 如果存在则不覆盖
         return new Constructor();
     }
 }
-
 ```

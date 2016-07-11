@@ -1,8 +1,6 @@
 # Json
 
 ```
-
-
 {
   "numbers": 0,
   "strings": "Hell酶, w酶rld. All unicode is allowed, along with \"escaping\".",
@@ -35,5 +33,4 @@
 
   "that was short": "And, you're done. You now know everything JSON has to offer."
 }
-
 ```

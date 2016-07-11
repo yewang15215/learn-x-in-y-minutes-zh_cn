@@ -1,8 +1,6 @@
 # CSS
 
 ```
-
-
 /* 注释 */
 
 /* ####################
@@ -153,6 +151,4 @@ p { property: value !important; }
 
 <p style='/*F*/ property:value;' class='class1 class2' attr='value'>
 </p>
-
-
 ```

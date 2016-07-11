@@ -1,8 +1,6 @@
 # Ruby
 
 ```
-
-
 # 这是单行注释
 
 =begin
@@ -319,7 +317,4 @@ dwight.name #=> "Dwight K. Schrute"
 
 # 调用对象的方法
 Human.say("Hi") #=> "Hi"
-
-
-
 ```

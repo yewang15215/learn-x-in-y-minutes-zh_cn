@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [编程语言]
+* 编程语言
     * [C](编程语言/C.md)
     * [C++](编程语言/C++.md)
     * [C#](编程语言/C#.md)
@@ -27,6 +27,6 @@
     * [Swift](编程语言/Swift.md)
     * [TypeScript](编程语言/TypeScript.md)
     * [Xml](编程语言/Xml.md)
-* [工具]
+* 工具
     * [Bash](工具/Bash.md)
 

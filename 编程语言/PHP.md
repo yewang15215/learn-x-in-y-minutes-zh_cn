@@ -1,8 +1,6 @@
 # PHP
 
 ```
-
-
 <?php // PHP必须被包围于 <?php ? > 之中
 
 // 如果你的文件中只有php代码，那么最好省略结束括号标记
@@ -613,7 +611,4 @@ use My\Namespace as SomeOtherNamespace;
 $cls = new SomeOtherNamespace\MyClass();
 
 */
-
-
-
 ```

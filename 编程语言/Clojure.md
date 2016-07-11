@@ -1,8 +1,6 @@
 # Clojure
 
 ```
-
-
 ; 注释以分号开始。
 
 ; Clojure代码由一个个form组成， 即写在小括号里的由空格分开的一组语句。
@@ -337,5 +335,4 @@ my-atom  ;=> Atom<#...> (返回Atom对象)
 ; 其他STM相关的结构是ref和agent.
 ; Refs: http://clojure.org/refs
 ; Agents: http://clojure.org/agents
-
 ```

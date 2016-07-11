@@ -1,8 +1,6 @@
-# C\#
+# C# 
 
 ```
-
-
 // 单行注释以 // 开始
 /*
 多行注释是这样的
@@ -759,6 +757,4 @@ on a new line! ""Wow!"", the masses cried";
         public DbSet<Bicycle> Bikes { get; set; }
     }
 } // 结束 Namespace
-
-
 ```

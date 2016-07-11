@@ -1,8 +1,6 @@
 # Xml
 
 ```
-
-
 <!-- XML中的注解像这样 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -100,6 +98,4 @@
     <price>30.00</price>
   </book>
 </bookstore>
-
-
 ```

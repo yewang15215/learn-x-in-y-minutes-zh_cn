@@ -1,8 +1,6 @@
 # R
 
 ```
-
-
 # 评论以 # 开始
 
 # R 语言原生不支持 多行注释
@@ -521,7 +519,4 @@ barplot(c(1,4,5,1,2), names.arg = c("red","blue","purple","green","yellow"))
 install.packages("ggplot2")
 require(ggplot2)
 ?ggplot2
-
-
-
 ```

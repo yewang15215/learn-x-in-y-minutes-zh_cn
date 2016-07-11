@@ -1,7 +1,6 @@
 # Haskell
 
 ```
-
 -- 单行注释以两个减号开头
 {- 多行注释像这样
     被一个闭合的块包围
@@ -376,5 +375,4 @@ qsort [] = []
 qsort (p:xs) = qsort lesser ++ [p] ++ qsort greater
     where lesser  = filter (< p) xs
           greater = filter (>= p) xs
-
 ```
