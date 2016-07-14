@@ -1,6 +1,6 @@
 # TypeScript
 
-```
+``` typescript
 // TypeScript有三种基本类型
 var isDone: boolean = false;
 var lines: number = 42;

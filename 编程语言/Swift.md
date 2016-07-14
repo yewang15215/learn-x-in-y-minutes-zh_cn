@@ -1,6 +1,6 @@
 # Swift
 
-```
+``` swift
 // 导入外部模块
 import UIKit
 

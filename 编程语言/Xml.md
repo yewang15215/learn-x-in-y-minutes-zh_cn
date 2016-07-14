@@ -1,6 +1,6 @@
 # Xml
 
-```
+``` xml
 <!-- XML中的注解像这样 -->
 
 <?xml version="1.0" encoding="UTF-8"?>

@@ -1,6 +1,6 @@
 # JavaScript
 
-```
+``` javascript
 // 注释方式和C很像，这是单行注释
 /* 这是多行
    注释 */

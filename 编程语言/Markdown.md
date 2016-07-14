@@ -1,6 +1,6 @@
 # Markdown
 
-```
+``` markdown
 <!-- Markdown 是 HTML 的父集，所以任何 HTML 文件都是有效的 Markdown。
 这意味着我们可以在 Markdown 里使用任何 HTML 元素，比如注释元素，
 且不会被 Markdown 解析器所影响。不过如果你在 Markdown 文件内创建了 HTML 元素，

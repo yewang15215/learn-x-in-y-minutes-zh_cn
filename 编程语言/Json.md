@@ -1,9 +1,9 @@
 # Json
 
-```
+``` json
 {
   "numbers": 0,
-  "strings": "Hell酶, w酶rld. All unicode is allowed, along with \"escaping\".",
+  "strings": "Hellø, wørld. All unicode is allowed, along with \"escaping\".",
   "has bools?": true,
   "nothingness": null,
 

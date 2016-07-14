@@ -1,6 +1,6 @@
 # Ruby
 
-```
+``` ruby
 # 这是单行注释
 
 =begin
