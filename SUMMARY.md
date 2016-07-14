@@ -24,6 +24,7 @@
     * [R](编程语言/R.md)
     * [Ruby](编程语言/Ruby.md)
     * [Rust](编程语言/Rust.md)
+    * [Scala](编程语言/Scala.md)
     * [Swift](编程语言/Swift.md)
     * [TypeScript](编程语言/TypeScript.md)
     * [Xml](编程语言/Xml.md)
